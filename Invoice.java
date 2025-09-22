@@ -6,8 +6,9 @@ public class Invoice {
     private int applicabletax;
     private int licensefee;
     private Salesperson saleperson;
-    private Payment payment
+    private Payment payment;
     private ArrayList<DealerInstalledOption> installoption;
     private Vehicle vahicle;
     private Customer customer;
+
 }
