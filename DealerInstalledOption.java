@@ -6,7 +6,7 @@ public class DealerInstalledOption{
     private ArrayList<String> service;
     private ArrayList<String> addon;
     private ArrayList<String> extend;
-    private ArrayList<String> accessory;
 
-    private ArrayList<Invoice> invoice
+    private ArrayList<Invoice> invoice;
+
 }
