@@ -23,6 +23,7 @@ public class Vehicle{
             "Model: " + model + "\n" +
             "Year: " + year + "\n" +
             "Manufacturer: " + manufacturer + "\n" +
-            "Base Cost: $" + basecost
+            "Base Cost: $" + basecost;
     }
+
 }
